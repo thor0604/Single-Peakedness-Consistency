@@ -1,0 +1,1 @@
+Place '.soc' files in this folder and run the programs 'singlepeaked.py' and 'nearsinglepeaked.py'.
